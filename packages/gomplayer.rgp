@@ -1,0 +1,13 @@
+[Info]
+Name=PotPlayer
+Ver=Latest
+About=Daum Potplayer is a fully free, multifunction multimedia record player with built-in codecs and flexible system of tuning. PotPlayer not only has almost all the features that other advanced pleery,but also possesses alongside new, among which it is possible to select support for practically all modern videos and audio formats, high quality of reproducing, and also built-in videos, is codecs of DXVA.
+Dev=daum
+DevURL=https://potplayer.daum.net/
+WinVer=Compatible with Windows XP upto Windows 10.
+
+[Links]
+Link1=GetFile|http://get.daum.net/PotPlayer/Codec/OpenCodecSetup.exe
+Link2=GetFile|http://get.daum.net/PotPlayer/Codec/OpenCodecSetup64.exe
+Link3=GetFile|https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+Link4=GetFile|https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
