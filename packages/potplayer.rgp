@@ -1,0 +1,11 @@
+[Info]
+Name=PotPlayer
+Ver=Latest
+About=A future-proof free media player with support for 360-degree video
+Dev=GOMLab
+DevURL=https://player.gomlab.com/plus/index.gom?language=eng
+WinVer=Compatible with Windows XP upto Windows 10.
+
+[Links]
+Link1=GetFile|https://cdn.gomlab.com/gretech/player/GOMPLAYERGLOBALSETUP_NEW.EXE
+Link2=GetFile|https://player.gomlab.com/history.gom?language=eng
